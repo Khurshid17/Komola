@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "MY Pro";
+    src: url(../fonts/Myriad\ Pro\ Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OS-Bold";
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OS-Light";
+    src: url(../fonts/OpenSans-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "OS-SemiBold";
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "OS-Regular";
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SSPro";
+    src: url(../fonts/SourceSansPro-Regular.ttf);
+    font-weight: 400;
+}
